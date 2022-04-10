@@ -1,3 +1,5 @@
+# Types of Operating System
+
 * **Batch Processing** - Put tasks in punch card and create a batch of job. The operator will put the batch of jobs together. This is a non-premptive method. Once the process starts execution, processor will remain allocated to it until it is finished. Even if the current process is blocked for I/O the processor will not shift to next process.
 
 * **Multiprogramming** - A set of processes will be loaded in primary memory. CPU will pick up processes one after another and execute. This is non-premptive process. Once the process starts execution, processor will remain allocated to it until it is finished. In this case, if the process is blocked for I/O, the CPU will pick up next process.
