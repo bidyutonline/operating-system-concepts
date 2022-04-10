@@ -20,4 +20,4 @@
 
 ## Mode Diagram
 
-<img src="../images/User Mode & Kernel Mode Diagram.png"/>
+<img src="../images/Operating System Modes.png"/>
