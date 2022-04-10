@@ -17,3 +17,7 @@
 6. The handler is executed in kernel mode.
 7. The mode bit is set to 1.
 8. The control returns to the application.
+
+## Mode Diagram
+
+<img src="../images/User Mode & Kernel Mode Diagram.png"/>
