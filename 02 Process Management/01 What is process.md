@@ -12,7 +12,7 @@ It has following memory map -
 
 
 ## The process memory map
-
+<pre>
 +---------------------------+
 |                           |
 |      Stack Segment        |
@@ -34,3 +34,4 @@ It has following memory map -
 |      Code Segment         |
 |                           |
 +---------------------------+
+</pre>
